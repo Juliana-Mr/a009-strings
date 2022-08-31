@@ -8,4 +8,6 @@ console.log(minhaString.length)
 console.log(minhaStringnew.length)
 
 //c
-console.log(minhaStringnew.replaceAll('________', 'sticioso'))
+const stringTrocada = minhaStringnew.replaceAll('________', 'sticioso')
+console.log(stringTrocada)
+
